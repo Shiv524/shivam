@@ -1,3 +1,3 @@
 # shivam
 practice repo 
-Author - shivam naik
+Author -  shivam naik
